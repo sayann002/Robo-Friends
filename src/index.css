@@ -1,0 +1,7 @@
+body{
+	font-family: sans-serif;
+	background: linear-gradient(to left, rgba(19,225,179,1)0%,rgba(109,51,223,1)100%);
+	border: 10px solid black;
+	padding-bottom: 50px;
+
+}
